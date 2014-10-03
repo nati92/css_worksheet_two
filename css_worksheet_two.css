@@ -1,7 +1,24 @@
 body {
 background-color: #000004;
 color: white;
-font-family:'avenir'
+font-family:'Avenir';
 font-size: 18px;
-line-height: 15px;
+}
+
+.wrapper {
+background-color: blue;
+width: 700px;
+margin-top: 20px;
+margin-right: auto;
+margin-bottom: 20px;
+margin-left: auto;
+}
+
+p {
+line-height: 25px;
+padding: 5px;
+}
+
+h1{
+padding: 5px;
 }
