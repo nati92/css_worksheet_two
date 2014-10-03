@@ -31,8 +31,12 @@ list-style:none;
 a {
 color: purple;
 padding: 3px;
+transition: all 1st;
 }
 
 a:hover {
-
+color: #cccccc;
+background-color: #2222ff;
+text-decoration:none;
+transition: all 1st;
 }
