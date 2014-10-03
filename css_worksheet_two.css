@@ -19,6 +19,20 @@ line-height: 25px;
 padding: 5px;
 }
 
-h1{
+h1,h2{
 padding: 5px;
+}
+
+ul {
+list-style:none;
+	padding:0;
+}
+
+a {
+color: purple;
+padding: 3px;
+}
+
+a:hover {
+
 }
