@@ -32,6 +32,8 @@ a {
 color: purple;
 padding: 3px;
 transition: all 1st;
+text-decoration:none;
+display: inline-block;
 }
 
 a:hover {
@@ -39,4 +41,8 @@ color: #cccccc;
 background-color: #2222ff;
 text-decoration:none;
 transition: all 1st;
+}
+
+nav {
+display: block;
 }
